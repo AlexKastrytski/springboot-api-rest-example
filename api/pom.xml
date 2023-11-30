@@ -16,7 +16,7 @@
 
   <properties>
     <springdoc.version>1.6.11</springdoc.version>
-    <java.version>17</java.version>
+    <java.version>11</java.version>
   </properties>
 
   <dependencies>
